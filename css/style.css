@@ -53,7 +53,7 @@ html, body {
                 width: 0;
           }
           to {
-                width: 15.5em;
+                width: 14.5em;
           }
     }
 }
@@ -554,3 +554,17 @@ textarea:focus {
           width: 98%;
     }
 }
+
+/*--------------- contact page --------------- */
+
+ .prev, .next p {
+     color: gray;
+ }
+
+ .prev p {
+     text-align: left;
+ }
+
+ .next p {
+    text-align: right;
+ }
